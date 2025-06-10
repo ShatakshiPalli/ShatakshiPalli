@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pallishatakshi@gmail.com**
 
-- 📄 Know about my experiences [Shatakshi Resume](https://drive.google.com/file/d/150hUJUgwHzrS4qqR_TGvm6lNmo0zLrVw/view?usp=drive_link)
+- 📄 Know about my experiences [Shatakshi Resume]([https://drive.google.com/file/d/150hUJUgwHzrS4qqR_TGvm6lNmo0zLrVw/view?usp=drive_link](https://drive.google.com/file/d/1SXb5hQ7EnxnsUklCtazoYYdIVKW-LgRs/view?usp=sharing))
   
 
 ## Connect with me:
