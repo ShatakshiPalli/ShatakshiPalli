@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shatakshi Palli</h1>
-<h3 align="center">A passionate ML Engineer from India.</h3>
+<h3 align="center">A passionate Software Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif"/>
 
 <br>
